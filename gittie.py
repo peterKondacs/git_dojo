@@ -1,6 +1,7 @@
 def say_hello ():
     print("Hello, I'm Gittie!")
 
+<<<<<<< HEAD
 def joke_telling():
     answer = input("would you like a joke?")
     if answer == "Yes":
@@ -9,3 +10,8 @@ def joke_telling():
         print("Then have a boring day.")
 
 joke_telling()
+=======
+
+def add(a, b):
+    print(int(a) + int(b))
+>>>>>>> 8ba56ef915e4b25baed92649e028d7be813bec6b
