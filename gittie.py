@@ -12,3 +12,6 @@ joke_telling()
 
 def add(a, b):
     print(int(a) + int(b))
+
+def shout():
+    print("BIG LETTERS")
